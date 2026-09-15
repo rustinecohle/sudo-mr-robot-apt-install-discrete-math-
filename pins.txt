@@ -1,0 +1,6 @@
+
+39. Find the degree sequence of each of the following
+graphs.
+a) K4 b) C4 c) W4
+d) K2,3 e) Q3
+
